@@ -1,6 +1,6 @@
 # Blender Addon: Gemini2Blend
 
-Gemini2Blend is a Blender addon that enables users to interact with Google's Gemini Large Language Model (LLM) directly within Blender. With this addon, users can quickly ask questions, clarify doubts, or seek assistance without the need to switch between different applications, streamlining their workflow and enhancing productivity.
+Gemini2Blend is a simple Blender addon that enables users to interact with Google's Gemini Large Language Model (LLM) directly within Blender. With this addon, users can quickly ask questions, clarify doubts, or seek assistance without the need to switch between different applications, streamlining their workflow and enhancing productivity.
 
 Created by [Kabeer2004](https://github.com/Kabeer2004/).
 
@@ -14,7 +14,7 @@ Created by [Kabeer2004](https://github.com/Kabeer2004/).
 #### Clarify Doubts
 ![image](https://github.com/Kabeer2004/Gemini2Blend/assets/59280736/c324937c-f050-488a-9cf7-13e5bf4628a5)
 
-#### Write Scripts
+#### Write Scripts and Execute them with No Hassle (simply copy the response from the text field)
 ![image](https://github.com/Kabeer2004/Gemini2Blend/assets/59280736/a649fcf0-06dc-4a54-bb1f-853fad072b31)
 
 #### Maintain Context across Messages to quickly modify generated scripts, clarify responses, etc
